@@ -1,0 +1,1 @@
+D:\Documents\GitHub\Universal-Windows_REST_API\Project\rest_tutorialClient\rest_tutorialClient\bin\Debug\rest_tutorialClient.exe.config

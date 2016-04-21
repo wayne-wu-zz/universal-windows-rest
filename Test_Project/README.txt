@@ -1,0 +1,1 @@
+Experiments with Visual Studio to talk to the Asset Manager
